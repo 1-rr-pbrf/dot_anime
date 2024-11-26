@@ -7,6 +7,13 @@
   margin: 20px 0;
   /* 各セクションの間にスペースを追加 */
 }
+.dot-art .static {
+    display: block; /* 静止画を表示 */
+}
+
+.dot-art .animated {
+    display: none; /* アニメーションを非表示 */
+}
 
 .dot-art img {
   display: block;
