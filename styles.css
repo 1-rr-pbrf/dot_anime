@@ -4,7 +4,6 @@ body {
     padding: 0;
     background: url('background-animation.gif') no-repeat center center fixed;
     background-size: cover;
-    opacity: 0.5; /* 透明度を50％に設定 */
     display: flex;
     justify-content: center;
     align-items: center;
